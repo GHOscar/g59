@@ -24,7 +24,7 @@ const Connect = () => {
             <h2 onClick={() => {
                 window.location.href="https://g59records.com"
             }}>original website: g59records.com</h2>
-            <p>this website made for a project but continued for fun</p>
+            <p>this website was made for a project but continued for fun</p>
             <div className="instagram">
                 <a className="igpic" href="https://instagram.com/oscarjaansson" target="_blank">
                     <img src={instagram} alt="instagram logo" />

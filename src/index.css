@@ -744,7 +744,7 @@ h2 {
 }
 
 .shoppic:hover {
-  filter: drop-shadow(0 0 0.5rem #FFF);
+  filter: drop-shadow(0 0 0.75rem #FFF);
 }
 
 #connect-page {
