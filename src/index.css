@@ -113,7 +113,7 @@ main .content {
 }
 
 .navbar .toplink .link img {
-  height: 10px;
+  height: 14px;
   
 }
 
@@ -473,7 +473,6 @@ main .content {
 .bstext {
     margin-left: auto;
     margin-right: auto;
-    font-size: 16px;
     color: white;
     text-align: center;
     font-family: Arial;
@@ -489,7 +488,6 @@ main .content {
   overflow-wrap: break-word;
   margin-left: auto;
   margin-right: auto;
-  font-size: 16px;
 }
 @keyframes blinker {
   1% {
