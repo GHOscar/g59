@@ -499,7 +499,7 @@ h2 {
   margin: 0.67em 0;
 }
 
-.popups {
+/* .popups {
   position: fixed;
   top: 0;
   left: 0;
@@ -508,7 +508,7 @@ h2 {
 
 .popups img {
   width: 350px;
-} 
+}  */
 
 #five-content {
   margin: 0px;
@@ -793,8 +793,23 @@ h2 {
 }
 
 #connect-page .toplink {
-  
   left: -34px;
   top: 0px;
   height: 24px;
+}
+
+.randompic {
+  position: absolute;
+  animation: 1s fadeIn;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+}
+
+@keyframes fadeIn {
+  99% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
 }
