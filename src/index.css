@@ -739,10 +739,6 @@ h2 {
 }
 }
 
-.shoptext {
-  height: 30px;
-}
-
 .shoppic:hover {
   filter: drop-shadow(0 0 0.75rem #FFF);
 }
